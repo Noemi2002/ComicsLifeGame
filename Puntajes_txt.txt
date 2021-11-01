@@ -1,0 +1,10 @@
+Noemí;123
+Mimí;96
+FER;95
+Noemí;80
+Mimí;76
+ESTEFANIA ;65
+caro; 56
+GERMAMAN;49
+steve;45
+camel;40
